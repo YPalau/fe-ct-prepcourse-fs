@@ -1,4 +1,4 @@
-![HenryLogo](./Assets//logoBannerHenry.png)
+![HenryLogo](./assets/logoBannerHenry.png)
 
 # **🧑‍💻 PREP COURSE | HENRY 👩‍💻**
 
@@ -79,3 +79,24 @@ Para poder acompañarte en esta etapa te ofrecemos las **Clases de Apoyo en Vivo
 Las clases son de lunes a viernes. Cada día se establece una temática distinta a trabajar. Deberás llegar a la clase habiendo visto los videos sobre ese tema e intentado resolver los ejercicios, dado que en las clases no se explicará los temas desde cero sino que se resolverán dudas puntuales.
 
 Si no puedes asistir al espacio en vivo, podrás ver la grabación. Puedes encontrar el calendario con las clases, el link de acceso y el link de la grabación, aquí: [**CALENDARIO**](https://prep.soyhenry.com/calendario/)
+
+</br >
+
+## **💻 SUBE TUS AVANCES**
+
+Te invitamos, cada vez que termines una homework, a que subas tus avances a tu repositorio. ¿Recordemos cómo hacer esto?
+
+Deberás ejecutar estos comandos:
+
+```bash
+git add .
+// Este comando te permitirá guardar tus cambios en Git.
+
+git commmit -m "tuMensaje"
+// Este comando te permitirá darle un título a tus cambios.
+
+git push
+// Este comando subirá tus cambios al repositorio de GitHub.
+```
+
+Recuerda que todos estos comandos son necesarios. Si tienes alguna duda, ¡te invitamos a que repases estos comandos en el Prep Course!
